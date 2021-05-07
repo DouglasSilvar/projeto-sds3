@@ -1,6 +1,6 @@
 # Projeto desenvolvido na semana Spring React
 
-##Envolvendo o BackEnd em:
+## Envolvendo o BackEnd em:
 
 JavaSpring
 
@@ -8,7 +8,7 @@ PostgreSQL
 
 Heroku
 
-##FontEnd em:
+## FrontEnd em:
 
 React Native
 
