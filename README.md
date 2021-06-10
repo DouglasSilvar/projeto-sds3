@@ -10,7 +10,7 @@ Heroku
 
 ## FrontEnd em:
 
-React Native
+ReactJs
 
 Bootstrap
 
